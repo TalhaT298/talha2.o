@@ -81,19 +81,19 @@ input:checked + label .description {
 }
 
 .cardtalha[for="c1"] {
-    background-image: url('../../Blogs/components/image 90.png');
+    background-image: url('../../../assets/image 90.png');
 }
 .cardtalha[for="c2"] {
-    background-image: url('../../Blogs/components/image 92.png');
+    background-image: url('../../../assets/image 92.png');
 }
 .cardtalha[for="c3"] {
-    background-image: url('../../Blogs/components/react.png');
+    background-image: url('../../../assets/react.png');
 }
 .cardtalha[for="c4"] {
-    background-image: url('../../Blogs/components/mern.png');
+    background-image: url('../../../assets/mern.png');
 }
 .cardtalha[for="c5"] {
-    background-image: url('../../Blogs/components/motiv.png');
+    background-image: url('../../../assets/motiv.png');
 }
 @media screen and (max-width: 600px) {
     .container {
