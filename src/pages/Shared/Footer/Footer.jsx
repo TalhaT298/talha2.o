@@ -17,7 +17,8 @@ import moment from "moment";
 const Footer = () => {
   return (
     <div>
-      <div className="bg-gradient-to-bl from-transparent via-transparent to-gray-300 opacity-10 animate-pulse  mt-20">
+      {/* <div className="bg-gradient-to-bl from-transparent via-transparent to-gray-300 opacity-10 animate-pulse  mt-20"> */}
+      <div className=" ">
       
         {/* <div className="w-full h-full bg-gradient-to-tr from-gray-900 via-gray-900 to-gray-300 opacity-10 animate-pulse"></div> */}
         {/* <div className="absolute inset-0 z-10 bg-particles animate-particles"></div> */}
