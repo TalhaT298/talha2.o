@@ -18,7 +18,7 @@ function Github() {
   return (
     <div className="Github">
       {/* Use responsive font size classes for the h1 element */}
-      <h1 className="lg:text-5xl text-2xl md:text-4xl lg:mb-12 md:mb-10 mb-2 mt-20 font-bold text-center">
+      <h1 className="lg:text-3xl text-2xl md:text-4xl lg:mb-12 md:mb-10 mb-2 mt-20 font-bold text-center" style={{ fontFamily: "Parkinsans, serif", fontWeight: 400 }}>
         My GitHub Contributions
       </h1>
       {/* <form onSubmit={handleSubmit}>
