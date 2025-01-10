@@ -1,5 +1,5 @@
 import React from 'react'
-
+import './Card.css';
 const Card = () => {
   return (
     <div className='hidden lg:block'>
@@ -57,7 +57,7 @@ const Card = () => {
             </div>
           </label>
         </div>
-        <div className='flex flex-col hidden lg:block'>
+        <div className='flex flex-col  lg:block'>
         <h1 className=' lg:text-4xl md:text-4xl text-3xl mt-4 font-bold text-center'>S</h1>
         <h1 className=' lg:text-4xl md:text-4xl text-3xl  font-bold text-center'>e</h1>
         <h1 className=' lg:text-4xl md:text-4xl text-3xl  font-bold text-center'>r</h1>
