@@ -112,7 +112,8 @@ const Footer = () => {
             <b>{moment().format("MMMM Do YYYY dddd, h:mm a")}</b>
           </div>
           <div>
-            <p>Copyright ©2025 All right reserved by Talha Tarique</p>
+            {/* <p>Copyright ©2024 All right reserved by Talha Tarique</p> */}
+            <p>Copyright ©{moment().format("YYYY")} All rights reserved by Talha Tarique</p>
           </div>
         </footer>
       </div>
